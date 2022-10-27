@@ -1,5 +1,5 @@
 Hi, I’m Ushesh<br>
-I SCUBA dive, golf and a bunch of other stuff<br>
+I SCUBA dive and golf<br>
 I work at Slack - I'm an engineer pretending to be a TPM<br>
 
 <!---
