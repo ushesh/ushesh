@@ -1,6 +1,6 @@
-👋 Hi, I’m Ushesh
-I SCUBA dive, golf and a bunch of other stuff
-I work at Slack - I'm an engineer pretending to be a TPM
+Hi, I’m Ushesh<br>
+I SCUBA dive, golf and a bunch of other stuff<br>
+I work at Slack - I'm an engineer pretending to be a TPM<br>
 
 <!---
 ushesh/ushesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
