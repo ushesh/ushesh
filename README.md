@@ -1,6 +1,6 @@
 Hi, I’m Ushesh<br>
-I SCUBA dive and golf<br>
-I'm an engineer pretending to be an EM/TPM<br>
+I have a lot of hobbies that are <a href ="www.halfburrito.com">mostly fun, most of the time</a><br>
+I'm an engineer pretending to be a manager<br>
 
 <!---
 ushesh/ushesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
