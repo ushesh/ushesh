@@ -1,5 +1,5 @@
 Hi, I’m Ushesh<br>
-I have a lot of hobbies that are <a href ="www.halfburrito.com">mostly fun, most of the time</a><br>
+I have a lot of hobbies. They're <a href ="https://www.halfburrito.com">mostly fun, most of the time</a><br>
 I'm an engineer pretending to be a manager<br>
 
 <!---
